@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/_media.sass",
+        "../sass/_generate.sass"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
